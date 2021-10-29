@@ -16,7 +16,7 @@
 	Have fun!
 ]]
 
-local API_URL = "https://pastebin.com/raw/tKQBLkNJ"
+local API_URL = "https://raw.githubusercontent.com/SepticX/API/main/TemporalX"
 local DATA = game:GetService("HttpService"):JSONDecode(game:HttpGet(API_URL))
 
 local ver = "v2.0.3"
